@@ -1,0 +1,31 @@
+img {
+  position: relative;
+  right: 15px;
+}
+.weather {
+  margin-right: 25px;
+}
+.row {
+  margin: auto;
+}
+.material-symbols-outlined {
+  width: 100%;
+  display: block;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 50px;
+}
+.card {
+  padding: 20px 20px 50px 20px;
+  border: 2px solid black;
+  margin: 20px 20px 30px 20px;
+}
+.col-4 {
+  text-align: center;
+}
+.col-2 {
+  text-align: center;
+}
+.text-start {
+  font-size: 28px;
+}
